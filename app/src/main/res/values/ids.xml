@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageView" type="id" />
+    <item name="editar" type="id" />
+    <item name="guideline7" type="id" />
+    <item name="imageView4" type="id" />
+    <item name="imageView3" type="id" />
+    <item name="guideline8" type="id" />
+    <item name="guideline2" type="id" />
+    <item name="btnEditar" type="id" />
+    <item name="btnVenda" type="id" />
+    <item name="btnProdutos" type="id" />
+</resources>
